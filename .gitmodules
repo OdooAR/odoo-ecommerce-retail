@@ -14,3 +14,7 @@
 	path = website_sale_fancy
 	url = https://github.com/ctmil/website_sale_fancy
 	branch = 13.0
+[submodule "payment_mercadopago"]
+	path = payment_mercadopago
+	url = https://github.com/ctmil/payment_mercadopago
+	branch = 13.0
