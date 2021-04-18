@@ -10,3 +10,7 @@
 	path = website_product_publish
 	url = https://github.com/ctmil/website_product_publish
 	branch = 13.0
+[submodule "website_sale_fancy"]
+	path = website_sale_fancy
+	url = https://github.com/ctmil/website_sale_fancy
+	branch = 13.0
