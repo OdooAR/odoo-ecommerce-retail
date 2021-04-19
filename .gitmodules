@@ -18,3 +18,7 @@
 	path = payment_mercadopago
 	url = https://github.com/ctmil/payment_mercadopago
 	branch = 13.0
+[submodule "website_product_multiwebsite"]
+	path = website_product_multiwebsite
+	url = https://github.com/ctmil/website_product_multiwebsite
+	branch = 13.0
